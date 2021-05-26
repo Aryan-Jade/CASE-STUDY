@@ -1,0 +1,82 @@
+body{
+    font-family: 'Ranchers', cursive;
+    background-color:  lightcoral;
+}
+
+.header{
+    color: white;
+}
+
+.header img{
+    width: 100px;
+    height: 100px;
+}
+
+.main_div{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    border:2px solid #db7093;
+}
+
+.main_div label{
+    background-color: cadetblue;
+    color: crimson;
+    width: 300px;
+    padding:10px;
+    box-shadow: 5px 5px 20px palevioletred;
+}
+
+.text_images_and_results{
+    width: 25%;
+    background-color: lightcyan;
+    margin-left: 5%;
+    border-radius: 20%;
+    text-align: center;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: 5px 10px 20px blueviolet;
+}
+
+.footer_div img{
+    width: 50px;
+    height: 50px;
+    border:2px dotted black;
+    box-shadow: 5px 10px 20px blueviolet;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.footer_div h4{
+    background-color: darkkhaki;
+    color: darkred;
+    border-radius: 2px;
+    padding:5px;
+    box-shadow: 5px 10px 20px yellowgreen;
+}
+
+#ans{
+    background-color: lightskyblue;
+    width: 75%;
+    border-radius: 50%;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.copyright{
+    background-color: greenyellow;
+    position: fixed;
+    color: blueviolet;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+}
+
+img{
+    height :200px;
+    width :100px;
+}
